@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi, I'm Nihad Mandžo
+I'm a software engineer from Bosnia and Herzegovina, passionate about full-stack development and building impactful applications.
 
-<!--
-**NihadMandzo/NihadMandzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+- Languages: C#, Dart, JavaScript, PHP
+- Frameworks: .NET, Flutter, Laravel, Angular
+- Tools: Azure, Git, SQL Server, Trello,
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- [📱 MyClub](https://github.com/NihadMandzo/MyClub)  
+  Community-focused sports app connecting fans with clubs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [SportScoreBiH](https://github.com/NihadMandzo/SportScoreBiH)  
+  Web application created by my colleague Adem Drpić and me as an uni project.
+### 📫 Reach Me At
+- [LinkedIn](https://www.linkedin.com/in/nihadmandzo)
+- Email: nihad.mandzo@edu.fit.ba
+
